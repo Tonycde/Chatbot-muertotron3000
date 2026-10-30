@@ -166,7 +166,7 @@ class Bot:
             return self._finish(self._about_reply(debug), remember=False)
         if flags["identity"] and not flags["injection"]:
             return self._finish(Reply(
-                "Soy MuertoBot, un programa de computadora (no una persona) que responde preguntas sobre el Día de Muertos en México. "
+                "Soy Muertotron3000, un programa de computadora (no una persona) que responde preguntas sobre el Día de Muertos en México. "
                 "No soy un modelo de lenguaje generativo: busco la respuesta más parecida en una base de conocimiento curada y te muestro de qué fuentes viene.",
                 "identity", suggestions=self._examples(), debug=debug), remember=False)
         if flags["help"] and not flags["injection"]:

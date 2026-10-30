@@ -16,8 +16,8 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
-from muertobot import retriever as R  # noqa: E402
-from muertobot.bot import Bot  # noqa: E402
+from muertotron import retriever as R  # noqa: E402
+from muertotron.bot import Bot  # noqa: E402
 
 DEV_NEG = [
     "¿cuál es la capital de España?", "¿cuántos planetas hay?", "dame una receta de tacos", "¿quién descubrió América?",

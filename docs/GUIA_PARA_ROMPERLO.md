@@ -1,4 +1,4 @@
-# ¿cómo intentar romper el sistema?
+# Guía para el profesor: cómo intentar romper el sistema
 
 Active **Modo transparencia** para ver intent, entrada elegida, puntajes y reglas. Sugerencias y comportamiento esperado:
 

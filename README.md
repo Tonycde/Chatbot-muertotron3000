@@ -7,10 +7,11 @@ Proyecto de la optativa *Sistemas Inteligentes* (Matemáticas Aplicadas).
 
 > **Para el profesor — probarlo en 1 minuto:** clic en el botón de Codespaces (arriba) → se instala solo y abre la
 > interfaz web. Active **«Modo transparencia»** en la barra lateral para ver la entrada elegida, los puntajes y las reglas.
+> En Codespaces se abre un editor (VS Code); en la terminal ejecute `streamlit run app.py` si no arrancó solo y abra el puerto **8501** (pestaña PORTS → globo) para ver el chat.
 > Alternativa local: `pip install -r requirements.txt && streamlit run app.py` (o `python cli.py --debug`).
 
 ## ¿Por qué no usa un LLM?
-Decisión de diseño: Se busca **consistencia** y **fuente de datos identificable (el «experto»)**.
+Decisión de diseño deliberada: el requisito es **consistencia** y **fuente de datos identificable (el «experto»)**.
 Un modelo generativo puede inventar, contradecirse o ser manipulado con *prompt injection*. Este sistema:
 
 * **Solo dice lo que está en una base de conocimiento curada** (`data/knowledge_base.json`, 44 entradas).
@@ -35,8 +36,8 @@ Detalle matemático en [`docs/ARQUITECTURA.md`](docs/ARQUITECTURA.md).
 
 ## Estructura
 ```
-app.py                 Interfaz web (Streamlit)        cli.py   Interfaz de terminal
-muertobot/             text.py · retriever.py · guardrails.py · bot.py
+app.py                 Interfaz web (Streamlit, tema Día de Muertos)   assets/  Ilustraciones SVG propias        cli.py   Interfaz de terminal
+muertotron/             text.py · retriever.py · guardrails.py · bot.py
 data/                  knowledge_base.json · sources.json
 evaluation/            eval_set.json (desarrollo) · holdout_set.json · run_eval.py
 tests/                 62 pruebas (pytest)             tools/   sweep.py (calibración) · trazabilidad.py
@@ -65,3 +66,5 @@ El holdout es deliberadamente duro (frases muy alejadas de las de la base). La l
 Sin comprensión semántica profunda (es recuperación léxica); solo español; ~44 temas; algunas entradas dependen de
 fuentes por validar. Ante preguntas casi-en-dominio sin dato exacto (p. ej. horarios) puede responder el tema más cercano.
 
+## Licencia
+MIT. Los textos de la base son redacciones propias basadas en las fuentes citadas (no copias).

@@ -197,7 +197,7 @@ MSG_UNSUPPORTED = (
     "solo respondo preguntas sobre el Día de Muertos con la información de mi base de conocimiento."
 )
 MSG_GREETING = (
-    "¡Hola! Soy MuertoBot. Puedo responder preguntas sobre el Día de Muertos en México: su historia, "
+    "¡Hola! Soy Muertotron3000. Puedo responder preguntas sobre el Día de Muertos en México: su historia, "
     "la ofrenda y sus símbolos, y cómo se celebra en distintas regiones. ¿Qué te gustaría saber?"
 )
 MSG_THANKS = "¡Con gusto! Si tienes otra duda sobre el Día de Muertos, aquí estoy."

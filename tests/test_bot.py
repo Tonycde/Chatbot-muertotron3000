@@ -1,7 +1,7 @@
 """Comportamiento del chatbot: respuestas, seguridad y consistencia."""
 import pytest
 
-from muertobot import Bot
+from muertotron import Bot
 
 
 @pytest.fixture

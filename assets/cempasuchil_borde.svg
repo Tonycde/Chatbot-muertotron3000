@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="70" viewBox="0 0 400 70">
+  <defs>
+    <g id="f"><g fill="#ff8f00"><circle r="10" cy="-17"/><circle r="10" cx="12" cy="-12"/><circle r="10" cx="17"/><circle r="10" cx="12" cy="12"/><circle r="10" cy="17"/><circle r="10" cx="-12" cy="12"/><circle r="10" cx="-17"/><circle r="10" cx="-12" cy="-12"/></g>
+      <circle r="9" fill="#ffb300"/><circle r="4" fill="#ffe082"/></g>
+  </defs>
+  <path d="M0 70V50Q50 30 100 50T200 50T300 50T400 50V70Z" fill="#2e7d32" opacity="0.8"/>
+  <use href="#f" x="30" y="40"/><use href="#f" x="95" y="48"/><use href="#f" x="160" y="40"/>
+  <use href="#f" x="225" y="48"/><use href="#f" x="290" y="40"/><use href="#f" x="355" y="48"/>
+</svg>

@@ -19,8 +19,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 
-from muertobot import Bot  # noqa: E402
-from muertobot import bot as botmod  # noqa: E402
+from muertotron import Bot  # noqa: E402
+from muertotron import bot as botmod  # noqa: E402
 
 ANSWERING = {"answer", "tentative"}
 
@@ -130,7 +130,7 @@ def main() -> None:
         print(json.dumps(res, ensure_ascii=False, indent=2))
         return
     lo = res["leave_one_out"]
-    print("=== Evaluación de MuertoBot ===")
+    print("=== Evaluación de Muertotron3000 ===")
     print(f"Umbrales: ACCEPT={botmod.ACCEPT}  TENTATIVE={botmod.TENTATIVE}  CLARIFY={botmod.CLARIFY}")
     print(f"1) Leave-one-out ({lo['total']} preguntas): top-1 = {lo['top1']:.1%}   top-1 y aceptada = {lo['top1_and_accepted']:.1%}")
     print(f"2) Paráfrasis independientes ({res['en_dominio']['total']}): exactitud = {res['en_dominio']['accuracy']:.1%} (respuesta directa: {res['en_dominio']['direct']:.1%}; el resto con aviso «no estoy seguro»)")

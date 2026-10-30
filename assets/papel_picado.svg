@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="96" viewBox="0 0 720 96">
+  <defs>
+    <g id="flag">
+      <path d="M0 0H60V70L50 80L40 70L30 80L20 70L10 80L0 70Z"/>
+    </g>
+  </defs>
+  <line x1="0" y1="6" x2="720" y2="6" stroke="#f5d9a8" stroke-width="3"/>
+  <g transform="translate(0,6)">
+    <g fill="#ff6f00"><use href="#flag" x="0"/><use href="#flag" x="360"/></g>
+    <g fill="#e91e8c"><use href="#flag" x="60"/><use href="#flag" x="420"/></g>
+    <g fill="#8e24aa"><use href="#flag" x="120"/><use href="#flag" x="480"/></g>
+    <g fill="#ffc107"><use href="#flag" x="180"/><use href="#flag" x="540"/></g>
+    <g fill="#00acc1"><use href="#flag" x="240"/><use href="#flag" x="600"/></g>
+    <g fill="#7cb342"><use href="#flag" x="300"/><use href="#flag" x="660"/></g>
+  </g>
+  <!-- recortes -->
+  <g fill="#1a0b2e" transform="translate(0,6)">
+    <g id="cut"><circle cx="30" cy="22" r="7"/><circle cx="30" cy="44" r="4"/>
+      <path d="M12 12l5 5-5 5-5-5zM48 12l5 5-5 5-5-5z"/><circle cx="14" cy="38" r="3"/><circle cx="46" cy="38" r="3"/></g>
+    <use href="#cut" x="60"/><use href="#cut" x="120"/><use href="#cut" x="180"/><use href="#cut" x="240"/>
+    <use href="#cut" x="300"/><use href="#cut" x="360"/><use href="#cut" x="420"/><use href="#cut" x="480"/>
+    <use href="#cut" x="540"/><use href="#cut" x="600"/><use href="#cut" x="660"/>
+  </g>
+</svg>

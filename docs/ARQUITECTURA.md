@@ -2,7 +2,7 @@
 
 ## Tipo de sistema
 Sistema basado en conocimiento con recuperación de información (no generativo). Componentes:
-**base de conocimiento** (`data/`), **motor de inferencia** (`muertobot/retriever.py`, `bot.py`) y
+**base de conocimiento** (`data/`), **motor de inferencia** (`muertotron/retriever.py`, `bot.py`) y
 **capa de seguridad** (`guardrails.py`).
 
 ## Pipeline (`Bot.reply`)
@@ -59,5 +59,5 @@ dos entradas distintas, y se responden ambas.
 * **LSA (SVD sobre TF-IDF)**: evaluado conceptualmente; con 44 documentos aporta poco.
 
 ## Trabajo futuro
-Ampliar paráfrasis con más estudiantes (registro de preguntas sin respuesta), validar entradas con un
+Ampliar paráfrasis con estudiantes reales (registro de preguntas sin respuesta), validar entradas «POR VALIDAR» con un
 experto humano, probar embeddings multilingües como señal adicional manteniendo la misma política de umbrales.
