@@ -1,0 +1,1305 @@
+{
+  "version": "1.0.0",
+  "dominio": "Día de Muertos en México",
+  "publico": "estudiantes de secundaria (12-15 años)",
+  "entradas": [
+    {
+      "id": "que_es",
+      "tema": "Qué es el Día de Muertos",
+      "tipo": "concepto",
+      "preguntas": [
+        "¿Qué es el Día de Muertos?",
+        "Explícame qué es el Día de Muertos",
+        "¿De qué trata el Día de Muertos?",
+        "¿Qué se celebra en el Día de Muertos?",
+        "¿Qué significa el Día de Muertos para los mexicanos?",
+        "¿Qué es la fiesta de los muertos?",
+        "¿Para qué sirve el Día de Muertos?",
+        "Cuéntame sobre el Día de Muertos",
+        "Háblame de la fiesta de los muertos en México",
+        "¿Por qué los mexicanos celebran a sus muertos?",
+        "Dame una explicación sencilla del Día de Muertos",
+        "¿Qué significa celebrar el Día de Muertos?"
+      ],
+      "palabras_clave": [
+        "día de muertos",
+        "celebración",
+        "tradición",
+        "festividad",
+        "recordar",
+        "difuntos"
+      ],
+      "respuesta": "El Día de Muertos es una tradición mexicana en la que se recuerda y se honra a las personas queridas que ya fallecieron. Según la creencia, sus almas regresan por unos días a convivir con su familia, y por eso se preparan ofrendas con flores, velas, comida y fotografías para recibirlas. No es una fiesta de miedo: es una forma de mantener viva la memoria con cariño y hasta con alegría.",
+      "mas": "La UNESCO la reconoce como Patrimonio Cultural Inmaterial de la Humanidad desde 2008, y cada región de México la vive de manera distinta.",
+      "fuentes": [
+        "unesco",
+        "inah_lugares",
+        "sep_nem"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "id": "cuando_se_celebra",
+      "tema": "Fechas del Día de Muertos",
+      "tipo": "hecho",
+      "preguntas": [
+        "¿Cuándo se celebra el Día de Muertos?",
+        "¿En qué fecha es el Día de Muertos?",
+        "¿Qué días se festeja el Día de Muertos?",
+        "¿Es el 31 de octubre el Día de Muertos?",
+        "¿El Día de Muertos es el 5 de mayo?",
+        "¿Es el 2 de noviembre?",
+        "¿Cuántos días dura el Día de Muertos?",
+        "¿Qué se celebra el 1 de noviembre y el 2 de noviembre?",
+        "¿Qué día del año es el Día de Muertos?",
+        "¿En qué mes se celebra el Día de Muertos?",
+        "¿Cuándo es el Día de Muertos?",
+        "¿Qué fechas del calendario se dedican a los muertos?"
+      ],
+      "palabras_clave": [
+        "fecha",
+        "cuándo",
+        "noviembre",
+        "octubre",
+        "días",
+        "primero",
+        "segundo"
+      ],
+      "respuesta": "El Día de Muertos se celebra principalmente el 1 y el 2 de noviembre (no el 31 de octubre, que es Halloween, ni el 5 de mayo). El 1 de noviembre coincide con el Día de Todos los Santos y se recuerda a los niños fallecidos; el 2 de noviembre es el Día de los Fieles Difuntos y se recuerda a los adultos. En muchas comunidades los preparativos y algunas ceremonias comienzan desde finales de octubre.",
+      "mas": "Las fechas exactas de inicio varían según la región y la familia.",
+      "fuentes": [
+        "unotv_inpi",
+        "viveusa",
+        "unesco"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "id": "origen",
+      "tema": "Origen del Día de Muertos",
+      "tipo": "historia",
+      "preguntas": [
+        "¿Cuál es el origen del Día de Muertos?",
+        "¿De dónde viene el Día de Muertos?",
+        "¿Cómo surgió el Día de Muertos?",
+        "¿Cuándo empezó el Día de Muertos?",
+        "¿Quién inventó el Día de Muertos?",
+        "¿Cuál es la historia del Día de Muertos?",
+        "¿Qué pueblos celebraban a los muertos antes de la llegada de los españoles?",
+        "¿De dónde salió esta tradición?",
+        "¿Cómo empezó la tradición de honrar a los muertos en México?",
+        "¿Qué origen tiene la fiesta de los muertos?",
+        "¿Cuál es el principio histórico del Día de Muertos?",
+        "¿La tradición viene de los indígenas o de los españoles?"
+      ],
+      "palabras_clave": [
+        "origen",
+        "historia",
+        "prehispánico",
+        "indígena",
+        "españoles",
+        "sincretismo",
+        "catolicismo",
+        "conquista"
+      ],
+      "respuesta": "El Día de Muertos nació de la mezcla de dos mundos: las creencias de los pueblos indígenas de Mesoamérica, que honraban a sus ancestros y veían la muerte como parte de un ciclo, y las fiestas católicas de Todos los Santos y Fieles Difuntos traídas por los españoles en el siglo XVI. A esa fusión se le llama sincretismo. Con los siglos se le sumaron aportes de comunidades rurales y urbanas, hasta llegar a la tradición que conocemos hoy.",
+      "mas": "Por eso en la ofrenda hay elementos de origen indígena (copal, cempasúchil, comida) y otros de origen europeo (velas).",
+      "fuentes": [
+        "unesco",
+        "inah_lugares",
+        "viveusa"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "id": "debate_origen",
+      "tema": "Debate sobre qué tan prehispánico es el Día de Muertos",
+      "tipo": "historia",
+      "preguntas": [
+        "¿El Día de Muertos es totalmente prehispánico?",
+        "¿Es azteca el Día de Muertos?",
+        "¿Los aztecas celebraban el Día de Muertos?",
+        "¿Todos los historiadores están de acuerdo en el origen del Día de Muertos?",
+        "¿Es verdad que el Día de Muertos es una tradición inventada?",
+        "¿Hay discusión entre los expertos sobre el origen del Día de Muertos?",
+        "¿Es mestizo el Día de Muertos?",
+        "¿Los historiadores discuten el origen de esta fiesta?",
+        "¿El Día de Muertos es 100% prehispánico?",
+        "¿Qué tan antigua es realmente la tradición según los especialistas?",
+        "¿Hay desacuerdos entre los académicos sobre esta fiesta?"
+      ],
+      "palabras_clave": [
+        "azteca",
+        "mexica",
+        "debate",
+        "historiadores",
+        "inventada",
+        "puramente",
+        "totalmente",
+        "expertos"
+      ],
+      "respuesta": "No es correcto decir que el Día de Muertos sea solo azteca ni solo europeo. Hay consenso en que es una tradición sincrética (mezcla de lo indígena y lo católico), pero los especialistas debaten cuánto de su forma actual viene de la época prehispánica y cuánto se transformó durante la Colonia y el siglo XX. Es un buen ejemplo de que las tradiciones cambian con el tiempo.",
+      "mas": "Ese debate es parte normal de la investigación histórica: no existe una única versión aceptada por todos.",
+      "fuentes": [
+        "unesco",
+        "wikipedia_en"
+      ],
+      "confianza": "media"
+    },
+    {
+      "id": "unesco",
+      "tema": "Reconocimiento de la UNESCO",
+      "tipo": "hecho",
+      "preguntas": [
+        "¿La UNESCO reconoce el Día de Muertos?",
+        "¿Es patrimonio de la humanidad el Día de Muertos?",
+        "¿En qué año la UNESCO declaró el Día de Muertos patrimonio?",
+        "¿Qué es patrimonio cultural inmaterial?",
+        "¿Por qué el Día de Muertos es patrimonio cultural?",
+        "¿Qué reconocimiento mundial tiene el Día de Muertos?",
+        "¿Qué hizo la UNESCO con esta tradición?",
+        "¿Qué es la Lista Representativa de la UNESCO?",
+        "¿Desde cuándo es patrimonio de la humanidad?"
+      ],
+      "palabras_clave": [
+        "unesco",
+        "patrimonio",
+        "humanidad",
+        "inmaterial",
+        "reconocimiento",
+        "2008",
+        "2003"
+      ],
+      "respuesta": "Sí. La UNESCO inscribió la festividad indígena dedicada a los muertos en la Lista Representativa del Patrimonio Cultural Inmaterial de la Humanidad en 2008; antes, en 2003, había sido proclamada Obra Maestra del Patrimonio Oral e Intangible de la Humanidad. El patrimonio inmaterial son tradiciones vivas (rituales, fiestas, música, artesanías) que pasan de generación en generación.",
+      "fuentes": [
+        "unesco",
+        "inah_hereditas"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "id": "mictlan",
+      "tema": "El Mictlán y la visión prehispánica de la muerte",
+      "tipo": "historia",
+      "preguntas": [
+        "¿Qué es el Mictlán?",
+        "¿A dónde van los muertos según los aztecas?",
+        "¿Cómo veían la muerte los pueblos prehispánicos?",
+        "¿Quién es Mictlantecuhtli?",
+        "¿Qué creían los mexicas sobre la muerte?",
+        "¿Qué es el inframundo en la cultura mexica?",
+        "¿Cuánto tardaban las almas en llegar al Mictlán?",
+        "¿A dónde iban las almas para los mexicas?",
+        "¿Cómo era el viaje de los muertos al Mictlán?",
+        "¿Qué es el inframundo prehispánico?",
+        "¿Quiénes eran el señor y la señora de los muertos?"
+      ],
+      "palabras_clave": [
+        "mictlán",
+        "mictlantecuhtli",
+        "inframundo",
+        "mexicas",
+        "viaje",
+        "almas",
+        "prehispánica"
+      ],
+      "respuesta": "En la visión de los mexicas, el Mictlán era el lugar de los muertos, gobernado por Mictlantecuhtli y Mictecacíhuatl. Se contaba que las almas hacían un largo viaje, de unos cuatro años, atravesando nueve niveles con pruebas difíciles antes de descansar. La muerte no se veía como un final absoluto, sino como el inicio de un recorrido.",
+      "mas": "Los pueblos mesoamericanos tenían distintas ideas sobre el más allá; el Mictlán es la versión mexica más conocida.",
+      "fuentes": [
+        "inah_lugares",
+        "conocimiento_general"
+      ],
+      "confianza": "media"
+    },
+    {
+      "id": "xoloitzcuintle",
+      "tema": "El perro xoloitzcuintle",
+      "tipo": "creencia",
+      "preguntas": [
+        "¿Qué es un xoloitzcuintle?",
+        "¿Por qué se relaciona a los perros con el Día de Muertos?",
+        "¿Qué papel tienen los perros en el Día de Muertos?",
+        "¿El xolo guía a las almas?",
+        "¿Qué animal acompaña a los muertos?",
+        "¿Los perros ayudan a las almas?",
+        "¿Para qué sirven los perros xolo en la tradición?",
+        "¿Qué es un perro mexicano sin pelo?"
+      ],
+      "palabras_clave": [
+        "xoloitzcuintle",
+        "xolo",
+        "perro",
+        "guía",
+        "río",
+        "animal"
+      ],
+      "respuesta": "El xoloitzcuintle es una raza de perro mexicana, casi sin pelo. Según una creencia de origen prehispánico, estos perros acompañaban a las almas y las ayudaban a cruzar un río en el camino hacia el Mictlán. Por eso a veces aparecen figuras de perritos en las ofrendas.",
+      "fuentes": [
+        "conocimiento_general"
+      ],
+      "confianza": "media"
+    },
+    {
+      "id": "que_es_ofrenda",
+      "tema": "Qué es una ofrenda",
+      "tipo": "concepto",
+      "preguntas": [
+        "¿Qué es una ofrenda?",
+        "¿Qué es el altar de muertos?",
+        "¿Para qué se pone una ofrenda?",
+        "¿Por qué se pone un altar el Día de Muertos?",
+        "¿Qué significa la ofrenda?",
+        "¿Dónde se pone la ofrenda?",
+        "¿Quién pone ofrendas?",
+        "¿Cuál es el propósito de armar un altar?",
+        "¿Qué se pretende con la ofrenda?"
+      ],
+      "palabras_clave": [
+        "ofrenda",
+        "altar",
+        "poner",
+        "recibir",
+        "almas",
+        "casa",
+        "escuela"
+      ],
+      "respuesta": "La ofrenda (o altar de muertos) es un espacio que se arma para recibir y honrar a las almas de los seres queridos que nos visitan en estos días. Se coloca en casas, escuelas, plazas y museos. Lleva fotografías, flores, velas, comida y objetos que la persona disfrutaba. Cada elemento tiene un significado y ayuda a que el alma encuentre el camino y se sienta bienvenida.",
+      "mas": "Puedes preguntar por elementos concretos, por ejemplo: ¿qué significa el cempasúchil, el copal o la sal?",
+      "fuentes": [
+        "sep_nem",
+        "unotv_inpi",
+        "cdmx_cultura"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "id": "elementos_ofrenda",
+      "tema": "Elementos de la ofrenda",
+      "tipo": "lista",
+      "preguntas": [
+        "¿Qué lleva una ofrenda?",
+        "¿Qué elementos tiene una ofrenda de muertos?",
+        "¿Qué se pone en el altar de muertos?",
+        "¿Cuáles son los elementos de la ofrenda?",
+        "¿Qué objetos no pueden faltar en una ofrenda?",
+        "Lista de cosas para el altar",
+        "¿Qué cosas lleva el altar?",
+        "¿Qué debe tener un altar de muertos?",
+        "¿Qué materiales y alimentos se necesitan en la ofrenda?"
+      ],
+      "palabras_clave": [
+        "elementos",
+        "lleva",
+        "objetos",
+        "componentes",
+        "no pueden faltar",
+        "partes"
+      ],
+      "respuesta": "Los elementos más comunes de una ofrenda son: la fotografía de la persona recordada, flores de cempasúchil, velas o veladoras, copal o incienso, papel picado, sal, agua, pan de muerto, calaveritas de azúcar y la comida y bebida favoritas de la persona. Pueden cambiar según la región y la familia. Pregunta por cualquiera de ellos para conocer su significado.",
+      "fuentes": [
+        "sep_nem",
+        "unotv_inpi",
+        "unam_cendi"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "id": "niveles_ofrenda",
+      "tema": "Niveles de la ofrenda",
+      "tipo": "hecho",
+      "preguntas": [
+        "¿Cuántos niveles tiene una ofrenda?",
+        "¿Qué significan los niveles del altar?",
+        "¿Por qué la ofrenda tiene escalones?",
+        "¿Cuántos pisos tiene el altar de muertos?",
+        "¿La ofrenda tiene siete niveles?",
+        "¿Qué representan los niveles de una ofrenda?",
+        "¿Cuántos niveles se ponen en el altar de muertos?"
+      ],
+      "palabras_clave": [
+        "niveles",
+        "pisos",
+        "escalones",
+        "siete",
+        "tres",
+        "dos",
+        "cielo",
+        "tierra"
+      ],
+      "respuesta": "El número de niveles depende de la tradición y de la familia. Las ofrendas pueden tener dos niveles (cielo y tierra), tres (cielo, tierra e inframundo) o siete, que algunas comunidades relacionan con los pasos que debe dar el alma para llegar al descanso. También hay ofrendas de un solo nivel, igual de válidas.",
+      "fuentes": [
+        "unotv_inpi",
+        "unam_cendi"
+      ],
+      "confianza": "media"
+    },
+    {
+      "id": "cuatro_elementos",
+      "tema": "Los cuatro elementos en la ofrenda",
+      "tipo": "concepto",
+      "preguntas": [
+        "¿Cuáles son los cuatro elementos de la ofrenda?",
+        "¿Qué representan agua, tierra, fuego y aire en el altar?",
+        "¿Cómo se representa el fuego en la ofrenda?",
+        "¿Cómo se representa el aire en la ofrenda?",
+        "¿Qué elementos de la naturaleza hay en el altar?",
+        "¿Qué simboliza cada elemento natural en el altar?"
+      ],
+      "palabras_clave": [
+        "cuatro elementos",
+        "agua",
+        "tierra",
+        "fuego",
+        "aire",
+        "naturaleza"
+      ],
+      "respuesta": "Se suele explicar que la ofrenda reúne los cuatro elementos de la naturaleza: la tierra, representada por los frutos y alimentos; el agua, en un vaso o jarra; el fuego, en las velas; y el aire, en el papel picado que se mueve con el viento.",
+      "fuentes": [
+        "unotv_inpi",
+        "viveusa"
+      ],
+      "confianza": "media"
+    },
+    {
+      "id": "cempasuchil",
+      "tema": "Flor de cempasúchil",
+      "tipo": "símbolo",
+      "preguntas": [
+        "¿Qué significa la flor de cempasúchil?",
+        "¿Por qué se usa cempasúchil en el Día de Muertos?",
+        "¿Qué es el cempasúchil?",
+        "¿Por qué las flores son naranjas?",
+        "¿Qué significa la palabra cempasúchil?",
+        "¿Cuál es la flor de muertos?",
+        "¿Para qué sirven las flores en la ofrenda?",
+        "¿De qué color son las flores del altar?",
+        "¿Por qué usan flores naranjas en la ofrenda?",
+        "¿Cuál es el significado de la flor naranja?",
+        "¿Cuál es el nombre científico y el uso del cempasúchil?"
+      ],
+      "palabras_clave": [
+        "cempasúchil",
+        "flor",
+        "flores",
+        "naranja",
+        "amarilla",
+        "aroma",
+        "náhuatl",
+        "veinte"
+      ],
+      "respuesta": "El cempasúchil es la flor emblemática del Día de Muertos. Su nombre viene del náhuatl y se interpreta como \"veinte flores\" o \"muchas flores\". Se cree que su color naranja intenso y su aroma guían a las almas hasta la ofrenda, y además florece justo en esta época del año. Es una de las aportaciones indígenas a la ofrenda.",
+      "mas": "En algunas ofrendas también se usan otras flores, como la nube y la cresta de gallo.",
+      "fuentes": [
+        "sep_nem",
+        "viveusa",
+        "unotv_inpi"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "id": "camino_petalos",
+      "tema": "Camino de pétalos",
+      "tipo": "símbolo",
+      "preguntas": [
+        "¿Para qué sirve el camino de pétalos?",
+        "¿Por qué se ponen pétalos desde la puerta hasta el altar?",
+        "¿Qué significa el sendero de flores?",
+        "¿Cómo encuentran las almas el camino a la ofrenda?",
+        "¿Para qué ponen pétalos en el piso?",
+        "¿Por qué hay flores desde la puerta hasta el altar?"
+      ],
+      "palabras_clave": [
+        "pétalos",
+        "camino",
+        "sendero",
+        "puerta",
+        "guiar",
+        "entrada"
+      ],
+      "respuesta": "El camino de pétalos de cempasúchil, que va desde la entrada de la casa hasta la ofrenda, sirve para guiar a las almas. El color y el aroma de las flores les ayudan a encontrar el lugar donde las esperan.",
+      "fuentes": [
+        "sep_nem",
+        "unotv_inpi"
+      ],
+      "confianza": "media"
+    },
+    {
+      "id": "pan_muerto",
+      "tema": "Pan de muerto",
+      "tipo": "símbolo",
+      "preguntas": [
+        "¿Qué significa el pan de muerto?",
+        "¿Por qué se come pan de muerto?",
+        "¿Qué es el pan de muerto?",
+        "¿Por qué el pan de muerto tiene huesitos?",
+        "¿Qué forma tiene el pan de muerto?",
+        "¿Cuándo se come el pan de muerto?",
+        "¿Hay diferentes tipos de pan de muerto?",
+        "¿Qué simboliza el pan en la ofrenda?"
+      ],
+      "palabras_clave": [
+        "pan",
+        "pan de muerto",
+        "huesitos",
+        "azúcar",
+        "hojaldra",
+        "panadería",
+        "fraternidad"
+      ],
+      "respuesta": "El pan de muerto es un pan dulce que se coloca en la ofrenda como símbolo de fraternidad y de cariño hacia quienes ya partieron; para la tradición católica también se relaciona con el cuerpo de Cristo. Suele decorarse con tiras en forma de huesitos y una bolita al centro. Hay muchas versiones según la región: con azúcar, con ajonjolí o de yema, como en Oaxaca. Después se comparte en familia.",
+      "fuentes": [
+        "sep_nem",
+        "viveusa",
+        "unotv_inpi"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "id": "papel_picado",
+      "tema": "Papel picado",
+      "tipo": "símbolo",
+      "preguntas": [
+        "¿Qué significa el papel picado?",
+        "¿Para qué sirve el papel picado en la ofrenda?",
+        "¿Por qué hay banderitas de papel en el altar?",
+        "¿Qué representa el papel picado?",
+        "¿Qué colores tiene el papel picado?",
+        "¿Qué es el papel picado?"
+      ],
+      "palabras_clave": [
+        "papel picado",
+        "banderitas",
+        "papel",
+        "colores",
+        "viento",
+        "aire"
+      ],
+      "respuesta": "El papel picado son hojas de papel de colores con figuras recortadas. En la ofrenda representa el elemento aire, porque se mueve con el viento, y llena el altar de color y alegría. Es una artesanía muy mexicana.",
+      "fuentes": [
+        "unotv_inpi",
+        "sep_nem",
+        "viveusa"
+      ],
+      "confianza": "media"
+    },
+    {
+      "id": "velas",
+      "tema": "Velas y veladoras",
+      "tipo": "símbolo",
+      "preguntas": [
+        "¿Qué significan las velas en la ofrenda?",
+        "¿Para qué se ponen veladoras en el altar?",
+        "¿Por qué se prenden velas el Día de Muertos?",
+        "¿Qué representa la luz en el altar de muertos?",
+        "¿Cuántas velas se ponen?",
+        "¿Qué significa la luz de las velas?",
+        "¿Para qué sirven las velas en el altar?"
+      ],
+      "palabras_clave": [
+        "velas",
+        "veladoras",
+        "luz",
+        "fuego",
+        "cirios",
+        "iluminar",
+        "camino"
+      ],
+      "respuesta": "Las velas y veladoras representan la luz y el fuego. Iluminan el camino de las almas para que lleguen a la ofrenda. Las velas llegaron con la tradición europea, así que son un ejemplo de la mezcla cultural de esta festividad.",
+      "fuentes": [
+        "unotv_inpi",
+        "sep_nem",
+        "viveusa"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "id": "copal",
+      "tema": "Copal e incienso",
+      "tipo": "símbolo",
+      "preguntas": [
+        "¿Qué significa el copal?",
+        "¿Para qué sirve el incienso en la ofrenda?",
+        "¿Qué es el copal?",
+        "¿Por qué se quema copal el Día de Muertos?",
+        "¿Qué es un sahumerio?",
+        "¿Qué representa el humo del copal?"
+      ],
+      "palabras_clave": [
+        "copal",
+        "incienso",
+        "sahumerio",
+        "humo",
+        "purificar",
+        "limpiar",
+        "resina"
+      ],
+      "respuesta": "El copal es una resina aromática que los pueblos indígenas usan desde hace siglos en sus ceremonias; se quema en sahumerios. En la ofrenda, su humo y su aroma se usan para limpiar el espacio y alejar a los malos espíritus, de modo que el alma pueda llegar con tranquilidad. El incienso cumple una función parecida.",
+      "fuentes": [
+        "sep_nem",
+        "unotv_inpi",
+        "unam_cendi"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "id": "sal",
+      "tema": "La sal en la ofrenda",
+      "tipo": "símbolo",
+      "preguntas": [
+        "¿Qué significa la sal en la ofrenda?",
+        "¿Para qué se pone sal en el altar?",
+        "¿Por qué hay sal en el Día de Muertos?",
+        "¿Qué representa la sal?"
+      ],
+      "palabras_clave": [
+        "sal",
+        "purificar",
+        "purificación",
+        "corromper",
+        "alma"
+      ],
+      "respuesta": "La sal simboliza la purificación. Se dice que ayuda a que el alma no se corrompa durante su viaje y a que pueda transitar al más allá. Suele colocarse en un platito o en forma de cruz.",
+      "fuentes": [
+        "sep_nem",
+        "unam_cendi"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "id": "agua",
+      "tema": "El agua en la ofrenda",
+      "tipo": "símbolo",
+      "preguntas": [
+        "¿Qué significa el agua en la ofrenda?",
+        "¿Por qué se pone un vaso de agua en el altar?",
+        "¿Para qué sirve el agua en el altar de muertos?",
+        "¿Qué representa el agua?",
+        "¿Qué simboliza el vaso de agua?"
+      ],
+      "palabras_clave": [
+        "agua",
+        "vaso",
+        "jarra",
+        "sed",
+        "viaje",
+        "pureza"
+      ],
+      "respuesta": "El vaso o jarra de agua se coloca para que el alma calme la sed después de su largo camino. También representa el elemento agua y la pureza.",
+      "fuentes": [
+        "unotv_inpi",
+        "viveusa"
+      ],
+      "confianza": "media"
+    },
+    {
+      "id": "fotografias",
+      "tema": "Fotografías y objetos personales",
+      "tipo": "símbolo",
+      "preguntas": [
+        "¿Para qué sirven las fotos en la ofrenda?",
+        "¿Qué significa el retrato en el altar?",
+        "¿Se ponen objetos de la persona en la ofrenda?",
+        "¿Por qué se pone la foto del difunto?",
+        "¿Se pueden poner cosas personales en el altar?",
+        "¿Por qué se pone la foto de la persona?",
+        "¿Qué objetos de la persona se ponen en el altar?"
+      ],
+      "palabras_clave": [
+        "fotografía",
+        "foto",
+        "retrato",
+        "objetos personales",
+        "difunto",
+        "persona"
+      ],
+      "respuesta": "La fotografía o retrato indica a quién está dedicada la ofrenda, es decir, qué ser querido la va a visitar. También se pueden poner objetos que la persona usaba o disfrutaba, como un juguete, un instrumento o su ropa favorita, para que se sienta en casa.",
+      "fuentes": [
+        "sep_nem",
+        "unotv_inpi"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "id": "comida_ofrenda",
+      "tema": "Comida y bebida en la ofrenda",
+      "tipo": "símbolo",
+      "preguntas": [
+        "¿Qué comida se pone en la ofrenda?",
+        "¿Por qué se pone comida en el altar de muertos?",
+        "¿Qué platillos se ponen el Día de Muertos?",
+        "¿Se pone mole y tamales en la ofrenda?",
+        "¿Qué bebidas se ponen en la ofrenda?",
+        "¿Los muertos se comen la comida?",
+        "¿Qué dulces se ponen en el altar?",
+        "¿Qué alimentos lleva la ofrenda?",
+        "¿Qué se le pone de comer a los muertos?"
+      ],
+      "palabras_clave": [
+        "comida",
+        "platillos",
+        "mole",
+        "tamales",
+        "bebidas",
+        "fruta",
+        "dulces",
+        "favorita",
+        "atole"
+      ],
+      "respuesta": "Se pone la comida y bebida que a la persona le gustaba en vida: por ejemplo mole, tamales, fruta, calabaza en tacha, dulces, atole o chocolate. Es una forma de compartir con ella y de mostrarle hospitalidad y cariño. Según la creencia, las almas disfrutan la esencia y el aroma de los alimentos. En ofrendas de adultos, algunas familias ponen también su bebida favorita, solo como símbolo de recuerdo.",
+      "mas": "Pasado el día, la familia suele compartir los alimentos entre todos.",
+      "fuentes": [
+        "sep_nem",
+        "viveusa",
+        "unotv_inpi"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "id": "calaveras_azucar",
+      "tema": "Calaveras de azúcar",
+      "tipo": "símbolo",
+      "preguntas": [
+        "¿Qué son las calaveritas de azúcar?",
+        "¿Por qué hay calaveras de azúcar en el Día de Muertos?",
+        "¿Para qué sirven las calaveras de dulce?",
+        "¿Por qué se escribe un nombre en la calavera?",
+        "¿Qué significan las calaveritas?",
+        "¿Qué simbolizan los cráneos de azúcar?"
+      ],
+      "palabras_clave": [
+        "calaveritas",
+        "calaveras",
+        "azúcar",
+        "dulce",
+        "nombre",
+        "cráneo",
+        "alfeñique"
+      ],
+      "respuesta": "Las calaveritas de azúcar son dulces con forma de cráneo, decorados con colores y a veces con un nombre escrito en la frente. Representan a la muerte dentro de la visión de las culturas mesoamericanas, pero de manera dulce y festiva. Se ponen en la ofrenda y también se regalan entre amigos y familia.",
+      "fuentes": [
+        "sep_nem",
+        "unam_cendi"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "id": "calaveras_literarias",
+      "tema": "Calaveras literarias",
+      "tipo": "cultura",
+      "preguntas": [
+        "¿Qué es una calavera literaria?",
+        "¿Qué son las calaveritas literarias?",
+        "¿Cómo se escribe una calavera literaria?",
+        "¿Para qué sirven los versos de calaveras?",
+        "¿Qué es un epitafio humorístico?",
+        "¿Cómo se redactan las calaveritas en verso?"
+      ],
+      "palabras_clave": [
+        "calavera literaria",
+        "versos",
+        "poema",
+        "rima",
+        "epitafio",
+        "humor",
+        "escribir"
+      ],
+      "respuesta": "Una calavera literaria es un breve poema en verso, divertido y con rima, que imagina la muerte de una persona viva (un amigo, un maestro, un personaje famoso) como si fuera su epitafio. Se escribe con humor para recordar que la muerte llega para todos y que podemos reírnos de ella. Es común escribirlas en las escuelas durante estas fechas.",
+      "fuentes": [
+        "wikipedia_en",
+        "conocimiento_general"
+      ],
+      "confianza": "media"
+    },
+    {
+      "id": "catrina",
+      "tema": "La Catrina",
+      "tipo": "cultura",
+      "preguntas": [
+        "¿Quién es la Catrina?",
+        "¿Qué es la Catrina?",
+        "¿Quién creó a la Catrina?",
+        "¿Por qué la Catrina lleva sombrero?",
+        "¿Cuál es la historia de la Catrina?",
+        "¿Qué significa la calavera garbancera?",
+        "¿Quién le puso el nombre de Catrina?",
+        "¿De dónde salió la Catrina?"
+      ],
+      "palabras_clave": [
+        "catrina",
+        "calavera garbancera",
+        "sombrero",
+        "elegante",
+        "diego rivera",
+        "posada"
+      ],
+      "respuesta": "La Catrina es un esqueleto elegante con un gran sombrero adornado. La creó el grabador José Guadalupe Posada hacia 1910-1913 con el nombre de Calavera Garbancera, como una crítica a quienes presumían un estilo de vida europeo y negaban sus raíces. Más tarde, el muralista Diego Rivera la hizo famosa al incluirla en su mural Sueño de una tarde dominical en la Alameda Central (1947), y de ahí se popularizó el nombre de Catrina. Hoy es un símbolo del Día de Muertos.",
+      "mas": "El mensaje clásico es que, sin importar la ropa o la riqueza, la muerte nos iguala a todos.",
+      "fuentes": [
+        "conocimiento_general",
+        "wikipedia_en"
+      ],
+      "confianza": "media"
+    },
+    {
+      "id": "posada",
+      "tema": "José Guadalupe Posada",
+      "tipo": "cultura",
+      "preguntas": [
+        "¿Quién fue José Guadalupe Posada?",
+        "¿Qué hizo Posada?",
+        "¿En qué año murió José Guadalupe Posada?",
+        "¿De dónde era Posada?",
+        "¿Por qué es famoso Posada?",
+        "¿Cuándo nació José Guadalupe Posada?",
+        "¿Quién hizo los grabados de calaveras?"
+      ],
+      "palabras_clave": [
+        "posada",
+        "josé guadalupe posada",
+        "grabador",
+        "aguascalientes",
+        "grabados",
+        "calaveras"
+      ],
+      "respuesta": "José Guadalupe Posada (Aguascalientes, 1852 - Ciudad de México, 1913) fue un grabador e ilustrador mexicano. Hizo miles de grabados para periódicos y hojas sueltas, y sus calaveras satíricas, que mostraban esqueletos en escenas de la vida diaria, son parte esencial de la imagen visual del Día de Muertos.",
+      "fuentes": [
+        "conocimiento_general",
+        "wikipedia_en"
+      ],
+      "confianza": "media"
+    },
+    {
+      "id": "halloween",
+      "tema": "Diferencias con Halloween",
+      "tipo": "mito",
+      "preguntas": [
+        "¿Es lo mismo el Día de Muertos y Halloween?",
+        "¿Cuál es la diferencia entre Halloween y Día de Muertos?",
+        "¿El Día de Muertos es el Halloween mexicano?",
+        "¿Por qué no es Halloween el Día de Muertos?",
+        "¿Halloween viene del Día de Muertos?",
+        "¿Se parecen Halloween y el Día de Muertos?",
+        "¿En qué se diferencian Halloween y el Día de Muertos?",
+        "¿Por qué no se confunde el Día de Muertos con Halloween?"
+      ],
+      "palabras_clave": [
+        "halloween",
+        "diferencia",
+        "mismo",
+        "parecido",
+        "31 de octubre",
+        "disfraces",
+        "brujas"
+      ],
+      "respuesta": "No son lo mismo. Halloween se celebra el 31 de octubre, viene de tradiciones europeas (celtas y cristianas) y suele relacionarse con disfraces, sustos y dulces. El Día de Muertos se celebra el 1 y 2 de noviembre, tiene raíces indígenas y católicas, y su sentido es recordar con cariño a los seres queridos fallecidos mediante ofrendas. Coinciden en fechas cercanas porque ambos se conectan con el calendario cristiano de Todos los Santos, pero tienen origen y significado distintos.",
+      "fuentes": [
+        "unesco",
+        "wikipedia_en"
+      ],
+      "confianza": "media"
+    },
+    {
+      "id": "es_triste",
+      "tema": "El tono de la celebración",
+      "tipo": "mito",
+      "preguntas": [
+        "¿El Día de Muertos es una fiesta triste?",
+        "¿Por qué se celebra con alegría si es por los muertos?",
+        "¿Los mexicanos no le tienen miedo a la muerte?",
+        "¿Es de luto el Día de Muertos?",
+        "¿Por qué no se llora en el Día de Muertos?",
+        "¿Se celebra la muerte o se recuerda a los muertos?",
+        "¿Por qué los mexicanos no están tristes en el Día de Muertos?",
+        "¿Es una fiesta alegre o de duelo?"
+      ],
+      "palabras_clave": [
+        "triste",
+        "alegre",
+        "alegría",
+        "luto",
+        "miedo",
+        "llorar",
+        "celebrar",
+        "fiesta"
+      ],
+      "respuesta": "Es una mezcla de ambas cosas. Puede haber nostalgia, porque se extraña a quien ya no está, pero el Día de Muertos se vive sobre todo como una celebración de la memoria: se comparten comida, música, historias y colores. Más que celebrar la muerte en sí, se celebra la vida de quienes nos antecedieron y el reencuentro simbólico con ellos. La tradición ve la muerte como parte natural de la vida.",
+      "fuentes": [
+        "unesco",
+        "sep_nem"
+      ],
+      "confianza": "media"
+    },
+    {
+      "id": "religion",
+      "tema": "Dimensión religiosa",
+      "tipo": "mito",
+      "preguntas": [
+        "¿El Día de Muertos es una religión?",
+        "¿Es satánico el Día de Muertos?",
+        "¿Se adora a la muerte en el Día de Muertos?",
+        "¿Es una fiesta católica?",
+        "¿Es un culto a la muerte?",
+        "¿Es malo celebrar el Día de Muertos?",
+        "¿Esta tradición es de la iglesia o de los indígenas?"
+      ],
+      "palabras_clave": [
+        "religión",
+        "satánico",
+        "culto",
+        "adorar",
+        "católica",
+        "diablo",
+        "creencia"
+      ],
+      "respuesta": "El Día de Muertos no es una religión ni un culto a la muerte. Es una tradición cultural que combina creencias indígenas sobre los ancestros con fiestas del calendario católico (Todos los Santos y Fieles Difuntos). Lo central es honrar y recordar a la familia fallecida. Cada persona la vive según sus propias creencias.",
+      "fuentes": [
+        "unesco",
+        "inah_lugares"
+      ],
+      "confianza": "alta"
+    },
+    {
+      "id": "panteon",
+      "tema": "Visita al panteón",
+      "tipo": "práctica",
+      "preguntas": [
+        "¿Qué se hace en el panteón el Día de Muertos?",
+        "¿Por qué se visita el cementerio?",
+        "¿Qué hacen las familias en las tumbas?",
+        "¿Se limpian las tumbas?",
+        "¿Qué es una velación?",
+        "¿Por qué se adornan las tumbas?"
+      ],
+      "palabras_clave": [
+        "panteón",
+        "cementerio",
+        "tumba",
+        "velación",
+        "visitar",
+        "limpiar",
+        "música"
+      ],
+      "respuesta": "En muchas comunidades las familias van al panteón a limpiar y adornar las tumbas con flores y velas, y pasan ahí horas o toda la noche conviviendo con comida, música y recuerdos. En algunos lugares a esa velada se le llama velación. Es un acto de cariño y de reunión familiar.",
+      "fuentes": [
+        "inah_lugares",
+        "conocimiento_general"
+      ],
+      "confianza": "media"
+    },
+    {
+      "id": "angelitos",
+      "tema": "Ofrenda para niños",
+      "tipo": "práctica",
+      "preguntas": [
+        "¿Qué es la ofrenda de angelitos?",
+        "¿Por qué se recuerda a los niños el 1 de noviembre?",
+        "¿Qué se pone en el altar de un niño?",
+        "¿Quiénes son los angelitos?",
+        "¿Se ponen juguetes en la ofrenda?",
+        "¿Qué se pone a los muertos chiquitos?",
+        "¿Cómo es la ofrenda para un niño que murió?"
+      ],
+      "palabras_clave": [
+        "angelitos",
+        "niños",
+        "juguetes",
+        "chiquitos",
+        "infantil",
+        "pequeños",
+        "dulces"
+      ],
+      "respuesta": "En muchas regiones, el 1 de noviembre se dedica a los niños fallecidos, llamados angelitos o muertitos chiquitos. En su ofrenda se ponen juguetes, dulces, frutas y alimentos ligeros que les gustaban. El 2 de noviembre se recuerda a los adultos, con sus comidas y objetos favoritos.",
+      "fuentes": [
+        "unotv_inpi",
+        "viveusa"
+      ],
+      "confianza": "media"
+    },
+    {
+      "id": "mariposa_monarca",
+      "tema": "Mariposa monarca",
+      "tipo": "creencia",
+      "preguntas": [
+        "¿Qué relación tiene la mariposa monarca con el Día de Muertos?",
+        "¿Por qué se dice que las mariposas son almas?",
+        "¿Cuándo llegan las mariposas monarca a Michoacán?",
+        "¿Las mariposas son los muertos que regresan?",
+        "¿Por qué se dice que las monarcas traen a los muertos?"
+      ],
+      "palabras_clave": [
+        "mariposa",
+        "monarca",
+        "almas",
+        "michoacán",
+        "migración"
+      ],
+      "respuesta": "En algunas comunidades de Michoacán se cree que las mariposas monarca que llegan por esas fechas a los bosques son las almas de los difuntos que regresan. La migración de la mariposa coincide con el 1 y 2 de noviembre, y de ahí surgió la asociación.",
+      "fuentes": [
+        "conocimiento_general"
+      ],
+      "confianza": "media"
+    },
+    {
+      "id": "janitzio",
+      "tema": "Janitzio y Pátzcuaro (Michoacán)",
+      "tipo": "región",
+      "preguntas": [
+        "¿Cómo se celebra el Día de Muertos en Michoacán?",
+        "¿Qué es Janitzio?",
+        "¿Cómo celebran los purépechas el Día de Muertos?",
+        "¿Qué pasa en el lago de Pátzcuaro?",
+        "¿Qué es la noche de muertos en Pátzcuaro?",
+        "¿Qué es Tzintzuntzan en el Día de Muertos?",
+        "¿Qué celebran en el estado de Michoacán?"
+      ],
+      "palabras_clave": [
+        "janitzio",
+        "pátzcuaro",
+        "michoacán",
+        "purépecha",
+        "lago",
+        "tzintzuntzan",
+        "noche de muertos"
+      ],
+      "respuesta": "La región del lago de Pátzcuaro, en Michoacán, es famosa por la celebración de los pueblos purépechas. En la isla de Janitzio y en comunidades cercanas, la noche del 1 al 2 de noviembre las familias velan en los panteones iluminados con miles de velas y flores. Es una de las celebraciones más conocidas del país y atrae a muchos visitantes.",
+      "fuentes": [
+        "conocimiento_general"
+      ],
+      "confianza": "media"
+    },
+    {
+      "id": "mixquic",
+      "tema": "Mixquic (Ciudad de México)",
+      "tipo": "región",
+      "preguntas": [
+        "¿Qué es Mixquic?",
+        "¿Dónde se celebra el Día de Muertos en la Ciudad de México?",
+        "¿Qué es la alumbrada de Mixquic?",
+        "¿Cómo se celebra el Día de Muertos en Tláhuac?",
+        "¿Qué pueblo de la CDMX celebra el Día de Muertos?",
+        "¿Cómo es el Día de Muertos en Mixquic?",
+        "¿Qué celebran en Tláhuac?"
+      ],
+      "palabras_clave": [
+        "mixquic",
+        "tláhuac",
+        "alumbrada",
+        "cdmx",
+        "ciudad de méxico",
+        "san andrés"
+      ],
+      "respuesta": "San Andrés Mixquic es un pueblo de la alcaldía Tláhuac, en la Ciudad de México, muy conocido por su celebración de Día de Muertos. En la noche del 1 al 2 de noviembre el panteón se llena de velas y flores en una ceremonia llamada la alumbrada, y las familias velan a sus difuntos.",
+      "fuentes": [
+        "conocimiento_general",
+        "cdmx_cultura"
+      ],
+      "confianza": "media"
+    },
+    {
+      "id": "oaxaca",
+      "tema": "Oaxaca",
+      "tipo": "región",
+      "preguntas": [
+        "¿Cómo se celebra el Día de Muertos en Oaxaca?",
+        "¿Qué son las comparsas de Oaxaca?",
+        "¿Qué se come en Oaxaca el Día de Muertos?",
+        "¿Qué es el pan de yema?",
+        "¿Qué es la muerteada?",
+        "¿Cómo es el Día de Muertos en Oaxaca?",
+        "¿Qué son las comparsas oaxaqueñas?",
+        "¿Qué hace especial a Oaxaca en esta fiesta?"
+      ],
+      "palabras_clave": [
+        "oaxaca",
+        "comparsas",
+        "pan de yema",
+        "zapotecos",
+        "mixtecos",
+        "muerteada",
+        "filas"
+      ],
+      "respuesta": "En Oaxaca el Día de Muertos combina altares muy elaborados, visitas a los panteones y comparsas (grupos con música, disfraces y máscaras que recorren las calles). Es típico el pan de yema y el chocolate. Cada comunidad zapoteca, mixteca u otra tiene sus propias costumbres.",
+      "fuentes": [
+        "conocimiento_general"
+      ],
+      "confianza": "media"
+    },
+    {
+      "id": "hanal_pixan",
+      "tema": "Hanal Pixán (Yucatán)",
+      "tipo": "región",
+      "preguntas": [
+        "¿Qué es Hanal Pixán?",
+        "¿Cómo se celebra el Día de Muertos en Yucatán?",
+        "¿Cómo celebran los mayas el Día de Muertos?",
+        "¿Qué es el mucbipollo?",
+        "¿Qué es el pib?",
+        "¿Qué comida se hace en la península de Yucatán?"
+      ],
+      "palabras_clave": [
+        "hanal pixán",
+        "yucatán",
+        "maya",
+        "mucbipollo",
+        "pib",
+        "ánimas"
+      ],
+      "respuesta": "En la península de Yucatán, la tradición maya se llama Hanal Pixán, que se traduce como \"comida de las ánimas\". Se prepara el mucbipollo, un gran tamal que se hornea bajo tierra (en pib), y se coloca en el altar para los difuntos. La celebración tiene fechas y rituales propios, con distintos días para niños y adultos.",
+      "fuentes": [
+        "conocimiento_general"
+      ],
+      "confianza": "media"
+    },
+    {
+      "id": "xantolo",
+      "tema": "Xantolo (Huasteca)",
+      "tipo": "región",
+      "preguntas": [
+        "¿Cómo se celebra el Día de Muertos en la Huasteca?",
+        "¿Qué son los huehues?",
+        "¿Qué celebran los huastecos?",
+        "¿Qué son las comparsas de huehues?",
+        "¿Cómo es el Día de Muertos en Hidalgo o San Luis Potosí?"
+      ],
+      "palabras_clave": [
+        "xantolo",
+        "huasteca",
+        "huehues",
+        "huastecos",
+        "veracruz",
+        "hidalgo",
+        "san luis potosí"
+      ],
+      "respuesta": "Xantolo es el nombre con que se conoce la celebración de Todos Santos y Fieles Difuntos en la región de la Huasteca (partes de Hidalgo, San Luis Potosí y Veracruz). Se caracteriza por las danzas y comparsas de los huehues, personas con máscaras y disfraces que bailan y recorren las calles, además de altares y ofrendas.",
+      "fuentes": [
+        "conocimiento_general"
+      ],
+      "confianza": "media"
+    },
+    {
+      "id": "cultura_popular",
+      "tema": "Día de Muertos en el cine y los desfiles",
+      "tipo": "cultura",
+      "preguntas": [
+        "¿Hay un desfile de Día de Muertos en la Ciudad de México?",
+        "¿La película Coco habla del Día de Muertos?",
+        "¿Qué relación tiene James Bond con el Día de Muertos?",
+        "¿Por qué se hizo un desfile de Día de Muertos en la CDMX?",
+        "¿El desfile de Día de Muertos es una tradición antigua?",
+        "¿La película Spectre tuvo que ver con el desfile?"
+      ],
+      "palabras_clave": [
+        "desfile",
+        "coco",
+        "película",
+        "cine",
+        "james bond",
+        "spectre",
+        "cdmx",
+        "pixar"
+      ],
+      "respuesta": "El Día de Muertos ha llegado al cine y a los eventos masivos. El desfile de Día de Muertos de la Ciudad de México es reciente: se organizó por primera vez en 2016, inspirado en una escena de la película de James Bond Spectre (2015). Películas como Coco (2017) también difundieron la tradición en el mundo, aunque la celebración original en familias y comunidades es mucho más antigua.",
+      "fuentes": [
+        "wikipedia_en"
+      ],
+      "confianza": "media"
+    },
+    {
+      "id": "otros_paises",
+      "tema": "Celebraciones en otros países",
+      "tipo": "contexto",
+      "preguntas": [
+        "¿Se celebra el Día de Muertos en otros países?",
+        "¿Hay algo parecido al Día de Muertos en otros países?",
+        "¿Se celebra el Día de Muertos en Estados Unidos?",
+        "¿Cómo se celebra a los muertos en Guatemala?",
+        "¿Qué es el Día de Difuntos en otros países de América Latina?",
+        "¿Es solo de México esta tradición?"
+      ],
+      "palabras_clave": [
+        "otros países",
+        "estados unidos",
+        "guatemala",
+        "bolivia",
+        "ecuador",
+        "difuntos",
+        "américa latina",
+        "extranjero"
+      ],
+      "respuesta": "La tradición mexicana también se celebra donde hay comunidades mexicanas, por ejemplo en Estados Unidos. Además, en varios países de América Latina existen conmemoraciones propias el 1 y 2 de noviembre, con costumbres distintas, como los barriletes (cometas gigantes) en Guatemala o la colada morada en Ecuador. No son lo mismo que el Día de Muertos de México: cada país tiene sus propios símbolos.",
+      "fuentes": [
+        "wikipedia_en",
+        "conocimiento_general"
+      ],
+      "confianza": "media"
+    },
+    {
+      "id": "mascotas",
+      "tema": "Ofrenda para mascotas",
+      "tipo": "práctica",
+      "preguntas": [
+        "¿Se puede poner ofrenda a una mascota?",
+        "¿Puedo poner un altar para mi perro?",
+        "¿Se recuerda a los animales en el Día de Muertos?",
+        "Ofrenda para gatos y perros fallecidos",
+        "¿Se pueden recordar mascotas en la ofrenda?",
+        "¿Los animales también tienen ofrenda?"
+      ],
+      "palabras_clave": [
+        "mascotas",
+        "perro",
+        "gato",
+        "animales",
+        "mascota",
+        "perrito"
+      ],
+      "respuesta": "Sí. Aunque la tradición antigua se enfoca en familiares y ancestros, hoy muchas familias también recuerdan a sus mascotas fallecidas con una pequeña ofrenda: su foto, su comida favorita y un juguete. Es una costumbre moderna que expresa el cariño hacia ellas.",
+      "fuentes": [
+        "conocimiento_general"
+      ],
+      "confianza": "media"
+    },
+    {
+      "id": "como_hacer_ofrenda",
+      "tema": "Cómo armar una ofrenda",
+      "tipo": "práctica",
+      "preguntas": [
+        "¿Cómo hago una ofrenda?",
+        "¿Cómo poner un altar de muertos en casa?",
+        "¿Cómo armar una ofrenda para la escuela?",
+        "¿Qué necesito para hacer un altar?",
+        "Pasos para hacer una ofrenda",
+        "¿Cuándo se pone la ofrenda?",
+        "¿Cómo preparar un altar paso a paso?",
+        "¿Cómo monto una ofrenda en el salón de clases?"
+      ],
+      "palabras_clave": [
+        "hacer",
+        "armar",
+        "poner",
+        "pasos",
+        "preparar",
+        "escuela",
+        "casa",
+        "construir"
+      ],
+      "respuesta": "Una forma sencilla de armar una ofrenda: 1) elige a quién quieres recordar y consigue su foto; 2) prepara una mesa o espacio, con uno o más niveles, cubierto con mantel o papel picado; 3) coloca la foto, velas, flores de cempasúchil, copal, sal y agua; 4) agrega su comida, bebida y objetos favoritos, y el pan de muerto; 5) si quieres, haz un camino de pétalos hacia la entrada. No necesita ser costosa: lo importante es el cariño y el recuerdo. Normalmente se coloca antes del 1 de noviembre.",
+      "fuentes": [
+        "sep_nem",
+        "unotv_inpi",
+        "viveusa"
+      ],
+      "confianza": "media"
+    },
+    {
+      "id": "despues_ofrenda",
+      "tema": "Después de la ofrenda",
+      "tipo": "práctica",
+      "preguntas": [
+        "¿Qué se hace con la comida de la ofrenda después?",
+        "¿Cuándo se quita la ofrenda?",
+        "¿Se puede comer lo que se puso en el altar?",
+        "¿Qué pasa el 3 de noviembre?",
+        "¿Cuándo se desarma el altar?"
+      ],
+      "palabras_clave": [
+        "después",
+        "quitar",
+        "retirar",
+        "comer",
+        "compartir",
+        "sobras",
+        "3 de noviembre"
+      ],
+      "respuesta": "Cuando termina la celebración, en muchas familias la comida de la ofrenda se comparte entre todos y con los vecinos, como una forma de convivir. Se piensa que las almas ya tomaron su esencia. Las flores y las velas se retiran con respeto; los detalles dependen de cada familia.",
+      "fuentes": [
+        "conocimiento_general",
+        "viveusa"
+      ],
+      "confianza": "media"
+    },
+    {
+      "id": "maquillaje",
+      "tema": "Maquillaje de calavera",
+      "tipo": "cultura",
+      "preguntas": [
+        "¿Por qué la gente se pinta de calavera?",
+        "¿Qué significa el maquillaje de Catrina?",
+        "¿Es tradicional pintarse la cara de calavera?",
+        "¿Cómo se maquilla una calavera?",
+        "¿Qué significa pintarse de calavera?"
+      ],
+      "palabras_clave": [
+        "maquillaje",
+        "pintarse",
+        "cara",
+        "calavera",
+        "disfraz",
+        "catrín"
+      ],
+      "respuesta": "Pintarse la cara de calavera o vestirse de Catrina o Catrín es una costumbre popular y moderna, muy común en desfiles, escuelas y eventos. Se inspira en la imagen de la Catrina y es una forma creativa y respetuosa de participar en la celebración.",
+      "fuentes": [
+        "wikipedia_en",
+        "conocimiento_general"
+      ],
+      "confianza": "media"
+    },
+    {
+      "id": "recordar_ser_querido",
+      "tema": "Cómo recordar a alguien que falleció",
+      "tipo": "práctica",
+      "preguntas": [
+        "¿Cómo puedo recordar a mi abuelo en el Día de Muertos?",
+        "¿Cómo puedo honrar a alguien que murió?",
+        "¿Qué puedo hacer para recordar a un familiar fallecido?",
+        "¿Cómo hacerle una ofrenda a un ser querido?",
+        "¿Cómo recuerdo a un familiar que ya no está?"
+      ],
+      "palabras_clave": [
+        "recordar",
+        "honrar",
+        "familiar",
+        "abuelo",
+        "abuela",
+        "ser querido",
+        "homenaje"
+      ],
+      "respuesta": "Una bonita manera de recordar a una persona querida es armar una ofrenda con su foto y cosas que le gustaban, preparar su platillo favorito, contar historias sobre ella con tu familia y escribirle una carta o una calavera literaria con cariño. Hablar de la persona con alguien de confianza también ayuda. Si extrañas mucho a alguien, es normal sentirte triste, y compartirlo con un adulto de confianza puede hacerte bien.",
+      "fuentes": [
+        "sep_nem",
+        "unesco"
+      ],
+      "confianza": "media"
+    },
+    {
+      "id": "glosario",
+      "tema": "Palabras del Día de Muertos",
+      "tipo": "glosario",
+      "preguntas": [
+        "¿Qué significa ánima?",
+        "¿Qué es una calaca?",
+        "¿Qué significa panteón?",
+        "¿Qué significa difunto?",
+        "¿Qué quiere decir fieles difuntos?",
+        "¿Qué es el Día de Todos los Santos?",
+        "¿Qué significa la palabra difunto?",
+        "¿Qué quiere decir ánima?"
+      ],
+      "palabras_clave": [
+        "ánima",
+        "calaca",
+        "panteón",
+        "difunto",
+        "fieles difuntos",
+        "todos los santos",
+        "significado de palabras"
+      ],
+      "respuesta": "Algunas palabras útiles: ánima es el alma de una persona fallecida; calaca es una forma popular y cariñosa de llamar a la calavera o al esqueleto; panteón es el cementerio; difunto es una persona que ya murió; Día de Todos los Santos (1 de noviembre) y Día de los Fieles Difuntos (2 de noviembre) son fechas del calendario católico que se mezclaron con las tradiciones indígenas.",
+      "fuentes": [
+        "conocimiento_general",
+        "viveusa"
+      ],
+      "confianza": "media"
+    }
+  ]
+}

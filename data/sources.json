@@ -1,0 +1,82 @@
+{
+  "_descripcion": "Registro de fuentes que componen al 'experto' del sistema. Cada afirmacion de knowledge_base.json referencia al menos una fuente de este archivo. 'nivel' indica el peso epistemico (1 = institucional/primaria, 2 = educativa oficial, 3 = divulgacion/prensa que cita instituciones, 4 = enciclopedia o conocimiento general pendiente de validar).",
+  "fuentes": {
+    "unesco": {
+      "nombre": "UNESCO - La festividad indígena dedicada a los muertos (Lista Representativa del Patrimonio Cultural Inmaterial)",
+      "url": "https://ich.unesco.org/en/RL/00054",
+      "tipo": "institucional internacional",
+      "nivel": 1,
+      "estado": "consultada 2026-10-30 (fragmentos via busqueda web); el autor debe releerla completa"
+    },
+    "inah_lugares": {
+      "nombre": "INAH - Las fiestas indígenas dedicadas a los muertos (ficha de patrimonio inmaterial)",
+      "url": "https://lugares.inah.gob.mx/en/node/6394",
+      "tipo": "institucional nacional",
+      "nivel": 1,
+      "estado": "consultada 2026-10-30 (fragmentos via busqueda web); el autor debe releerla completa"
+    },
+    "inah_hereditas": {
+      "nombre": "INAH - Revista Hereditas: candidatura de la festividad indígena dedicada a los muertos ante la UNESCO",
+      "url": "https://revistas.inah.gob.mx/index.php/hereditas/article/download/4831/4862/7704",
+      "tipo": "institucional nacional",
+      "nivel": 1,
+      "estado": "consultada 2026-10-30 (fragmentos via busqueda web)"
+    },
+    "sep_nem": {
+      "nombre": "SEP - Nueva Escuela Mexicana: Elementos básicos para la ofrenda de Día de Muertos",
+      "url": "https://nuevaescuelamexicana.sep.gob.mx/contenido/recurso/elementos-basicos-para-la-ofrenda-de-dia-de-muertos/",
+      "tipo": "educativa oficial",
+      "nivel": 2,
+      "estado": "consultada 2026-10-30 (fragmentos via busqueda web)"
+    },
+    "inpi": {
+      "nombre": "INPI (Gobierno de México) - ¿Conoces el significado de los elementos de una ofrenda de Día de Muertos",
+      "url": "https://www.gob.mx/inpi/articulos/conoces-el-significado-de-los-elementos-de-una-ofrenda-de-dia-de-muertos",
+      "tipo": "institucional nacional",
+      "nivel": 1,
+      "estado": "POR VALIDAR: la URL aparece citada en material de la UNAM; el autor debe abrirla y confirmar el contenido"
+    },
+    "unotv_inpi": {
+      "nombre": "UnoTV - Ofrenda de Día de Muertos, ve el significado de sus elementos (cita a INPI/UNAM)",
+      "url": "https://www.unotv.com/cultura/ofrenda-de-dia-de-muertos-ve-el-significado-de-sus-elementos/",
+      "tipo": "divulgacion (prensa) que cita instituciones",
+      "nivel": 3,
+      "estado": "consultada 2026-10-30 (fragmentos via busqueda web)"
+    },
+    "unam_cendi": {
+      "nombre": "UNAM (CENDI) - Día de Muertos: elementos de la ofrenda (material didactico basado en INPI e INAFED)",
+      "url": "https://www.personal.unam.mx/Docs/Cendi/dia-de-muertos-elementos-de-la-ofrenda.pdf",
+      "tipo": "educativa institucional",
+      "nivel": 2,
+      "estado": "consultada 2026-10-30 (fragmentos via busqueda web)"
+    },
+    "viveusa": {
+      "nombre": "VIVE USA - Ofrenda de Día de Muertos: qué significa cada elemento y cuál es su origen",
+      "url": "https://www.viveusa.mx/en/educacion/ofrenda-de-dia-de-muertos-que-significa-cada-elemento-cual-es-su-origen/",
+      "tipo": "divulgacion",
+      "nivel": 3,
+      "estado": "consultada 2026-10-30 (fragmentos via busqueda web)"
+    },
+    "cdmx_cultura": {
+      "nombre": "Secretaría de Cultura de la Ciudad de México - Ofrendas de Día de Muertos",
+      "url": "https://mexicocity.cdmx.gob.mx/day-of-the-dead-ofrendas/",
+      "tipo": "institucional local",
+      "nivel": 1,
+      "estado": "POR VALIDAR: solo se vio el titulo de la pagina"
+    },
+    "wikipedia_en": {
+      "nombre": "Wikipedia (EN) - Day of the Dead",
+      "url": "https://en.wikipedia.org/wiki/Day_of_the_Dead",
+      "tipo": "enciclopedia (fuente secundaria)",
+      "nivel": 4,
+      "estado": "consultada 2026-10-30; se usa SOLO para senalar que existe debate academico sobre los origenes y para datos de cultura popular"
+    },
+    "conocimiento_general": {
+      "nombre": "Conocimiento general del autor (pendiente de contrastar con fuente institucional)",
+      "url": "",
+      "tipo": "pendiente de validacion",
+      "nivel": 4,
+      "estado": "POR VALIDAR: sustituir por una referencia (libro, museo, INAH, SEP) antes de la entrega final"
+    }
+  }
+}
