@@ -66,5 +66,4 @@ El holdout es deliberadamente duro (frases muy alejadas de las de la base). La l
 Sin comprensión semántica profunda (es recuperación léxica); solo español; ~44 temas; algunas entradas dependen de
 fuentes por validar. Ante preguntas casi-en-dominio sin dato exacto (p. ej. horarios) puede responder el tema más cercano.
 
-## Licencia
-MIT. Los textos de la base son redacciones propias basadas en las fuentes citadas (no copias).
+
