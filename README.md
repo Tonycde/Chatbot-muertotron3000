@@ -24,7 +24,7 @@ Un modelo generativo puede inventar, contradecirse o ser manipulado con *prompt 
 Resumen (detalle en [`docs/FUENTES_Y_EXPERTO.md`](docs/FUENTES_Y_EXPERTO.md)): corpus curado manualmente a partir de
 **UNESCO, INAH, SEP (Nueva Escuela Mexicana), INPI/Gobierno de México** y material de divulgación que cita a esas
 instituciones. Cada afirmación está ligada a su fuente; las entradas con respaldo débil están marcadas
-(`confianza: media`, fuente «POR VALIDAR») y listadas en [`docs/TRAZABILIDAD.md`](docs/TRAZABILIDAD.md).
+(`confianza: media`) y listadas en [`docs/TRAZABILIDAD.md`](docs/TRAZABILIDAD.md).
 
 ## Arquitectura (resumen)
 ```
