@@ -3,7 +3,8 @@
 Sistema inteligente **basado en conocimiento** para estudiantes de secundaria.
 Proyecto de la optativa *Sistemas Inteligentes* (Matemáticas Aplicadas).
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Tonycde/Chatbot-muertotron3000)
+[![Abrir en GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Tonycde/Chatbot-muertotron3000)
+Link del repositorio: https://github.com/Tonycde/Chatbot-muertotron3000.git
 
 > **Para el profesor — probarlo en 1 minuto:** clic en el botón de Codespaces (arriba) → se instala solo y abre la
 > interfaz web. Active **«Modo transparencia»** en la barra lateral para ver la entrada elegida, los puntajes y las reglas.
